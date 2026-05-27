@@ -1,0 +1,1 @@
+README.md file content with project documentation
